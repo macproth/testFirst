@@ -6,6 +6,8 @@
 //  Copyright (c) 2014年 tatsuya. All rights reserved.
 //
 
+//
+
 #import "MyAppDelegate.h"
 
 @implementation MyAppDelegate
